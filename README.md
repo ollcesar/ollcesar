@@ -2,9 +2,6 @@
 <h3 align="center">A student frontend developer from Brazil</h3>
 
 <p align="center">
-  <a href="https://twitter.com/olllcesar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/olllcesar?style=social" alt="Twitter Follow" />
-  </a>
   <a href="https://linkedin.com/in/ollcesar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ollcesar" alt="LinkedIn" />
   </a>
