@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ollcesar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junio-césar-oliveira-232954284/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ollcesar" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ollcesar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
