@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César</h1>
-<h3 align="center">A student frontend developer from Brazil</h3>
+<h3 align="center">A student fullstack developer from Brazil</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ollcesar" target="_blank">
