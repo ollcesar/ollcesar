@@ -1,6 +1,6 @@
 ### 👋 Welcome, I'm César!
 
-<h2 align="center">A passionate backend developer from Brazil</h2>
+<h2 align="center">A developer in training and always seeking knowledge</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/junio-c%C3%A9sar-o-232954284/" target="_blank">
