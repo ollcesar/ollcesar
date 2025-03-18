@@ -44,16 +44,6 @@
 
 ---
 
-### 🚀 Projetos em C++
-
-Aqui estão alguns dos meus projetos em C++:
-
-- [Projeto 1](link_para_repositorio_1): Descrição breve do projeto.
-- [Projeto 2](link_para_repositorio_2): Descrição breve do projeto.
-- [Projeto 3](link_para_repositorio_3): Descrição breve do projeto.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,7 +55,7 @@ Aqui estão alguns dos meus projetos em C++:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollcesar&layout=compact&theme=radical" alt="César's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollcesar&layout=compact&theme=radical&hide=html,css,scss" alt="César's Top Languages"/>
 </p>
 
 ---
