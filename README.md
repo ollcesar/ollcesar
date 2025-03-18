@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollcesar&layout=compact&theme=radical&hide=html,css,scss" alt="César's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollcesar&layout=compact&theme=radical" alt="César's Top Languages"/>
 </p>
 
 ---
