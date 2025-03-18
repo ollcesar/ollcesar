@@ -44,6 +44,16 @@
 
 ---
 
+### 🚀 Projetos em C++
+
+Aqui estão alguns dos meus projetos em C++:
+
+- [Projeto 1](link_para_repositorio_1): Descrição breve do projeto.
+- [Projeto 2](link_para_repositorio_2): Descrição breve do projeto.
+- [Projeto 3](link_para_repositorio_3): Descrição breve do projeto.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
