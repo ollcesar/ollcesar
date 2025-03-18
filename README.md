@@ -3,7 +3,6 @@
 <h2 align="center">A developer in training and always seeking knowledge</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/junio-c%C3%A9sar-o-232954284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ollcesar" target="_blank">
